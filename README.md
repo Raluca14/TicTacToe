@@ -1,6 +1,5 @@
 # TicTacToe
 This repository contains a TicTacToe game made using React.
 
-The project is focused only on getting sterted with React, so the css and html is kept at minimum. It is a classic tic, tac , toe game where the X stars and O follows. 
-It has a History Mode, the playes can go back in time to a specific move. When a player wins, the game automaticlly stops, but the History Mode remains viable.
+The project is made using React.js, with minimum CSS and HTML and it represents a classic TicTacToe game. The game starts with X and than O follows. As the game goes on, the History Mode enables and a list of button appears on the screen. In the History Mode, the players can go back to a specific moment in their game. Once someone wins the game stops and the winner is declared. 
 URL: https://Raluca14.github.io/TicTacToe
